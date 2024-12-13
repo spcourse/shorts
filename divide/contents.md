@@ -4,10 +4,23 @@ Write a program called `divide.py` that calculates how many oranges can be evenl
 
 Your program should prompt the user to input two numbers: the total number of oranges and the total number of baskets. It should then output the number of oranges placed in each basket and the number of oranges remaining.
 
-### Example Usage
+## Example Usage
 
     Number of oranges? 25
     Number of baskets? 4
 
     We put 6 oranges in each basket.
     We have 1 oranges left.
+
+
+## Run
+
+Run your program and verify that it indeed displays the expected text:
+
+    python divide.py
+
+## Checkpy
+
+You can use checkpy to verify that it meets our requirements:
+
+    checkpy divide
