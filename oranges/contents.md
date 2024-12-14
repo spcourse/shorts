@@ -1,6 +1,6 @@
-# Divide
+# Oranges
 
-Write a program called `divide.py` that calculates how many oranges can be evenly distributed into a given number of baskets (so each basket should contain an equal amount of oranges), and how many oranges are left over after the distribution.
+Write a program called `oranges.py` that calculates how many oranges can be evenly distributed into a given number of baskets (so each basket should contain an equal amount of oranges), and how many oranges are left over after the distribution.
 
 Your program should prompt the user to input two numbers: the total number of oranges and the total number of baskets. It should then output the number of oranges placed in each basket and the number of oranges remaining.
 
@@ -16,10 +16,10 @@ Your program should prompt the user to input two numbers: the total number of or
 
 Run your program and verify that it indeed displays the expected text:
 
-    python divide.py
+    python oranges.py
 
 ## Checkpy
 
 You can use checkpy to verify that it meets our requirements:
 
-    checkpy divide
+    checkpy oranges
