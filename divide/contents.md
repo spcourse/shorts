@@ -12,7 +12,6 @@ Your program should prompt the user to input two numbers: the total number of or
     We put 6 oranges in each basket.
     We have 1 oranges left.
 
-
 ## Run
 
 Run your program and verify that it indeed displays the expected text:
