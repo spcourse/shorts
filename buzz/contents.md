@@ -1,4 +1,4 @@
-### Buzz
+# Buzz
 
 Write a program called `buzz.py` that prints a range of integers but prints `"buzz"` for any number in the range that is a multiple of 5. For all other numbers, the program should simply print the number itself.
 
