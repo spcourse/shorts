@@ -6,8 +6,7 @@ Write a program called `sum_until.py` that calculates the sum from $$1 + 2 + ...
 
 1. Prompt the user to enter a positive integer (`n`). If the input is less than 1, keep prompting the user to "Try again" until a valid positive number is entered.
 2. Starting from 1, calculate the sum of consecutive integers (i.e., $$1 + 2 + ...$$) until the sum is greater than or equal to `n`.
-3. Display the sequence's largest integer (`x`), the final sum, and the target number in the following format:
-    - `The sum of all numbers from 1 to [x] is [sum] (which is bigger or equal to [n]).`
+3. Print results.
 
 ### Example Usage:
 

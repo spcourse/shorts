@@ -12,7 +12,7 @@ Here is an example of how the program should work:
     Enter second number: 7
 
 
-    The sum of all numbers from 3 to 7 is 25
+    The sum of all numbers from 3 to 7 is 25.
 
 ## Run
 
