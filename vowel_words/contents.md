@@ -4,15 +4,6 @@ Write a program called `vowel_words.py` that defines a function `vowel_words(tex
 
 ### Example Usage
 
-    # Define the function
-    def vowel_words(text):
-        new = ""
-        for w in text.split():
-            if w[0].lower() in "aeiou":
-                new += w + " "
-        return new
-
-    # Example string
     alice = "Sometimes I have believed as many as six impossible things before breakfast."
     only_words_that_start_with_vowels = vowel_words(alice)
     print(only_words_that_start_with_vowels)
