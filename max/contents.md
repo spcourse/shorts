@@ -1,6 +1,6 @@
 # Max
 
-Write a program called `find_maximum.py` that defines a function `max(lst)` which takes a list of numbers as input and returns the maximum value in the list. If the list is empty, the function should return `None`.
+Write a program called `max.py` that defines a function `max(lst)` which takes a list of numbers as input and returns the maximum value in the list. If the list is empty, the function should return `None`.
 
 ### Example Usage
 
