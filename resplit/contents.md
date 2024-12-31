@@ -4,7 +4,7 @@ Write a program called `resplit.py` that defines a function `resplit(text)` whic
 
 > Note that that the `.split()` method can only split on a single delimiter. So You will need to either need to use split multiple times (in a loop?) or write your own split-like function.
 
-> Getting the details right in this assignment might be trickier than it seems. It is the explicit intention that you get help from others (students and teaching staff) for this assignment.
+> Getting the details right in this assignment might be trickier than it seems. It is the explicit intention that you do not get stuck on this assignment for long. Get help from others (students and teaching staff) for this assignment when needed.
 
 ### Example Usage
 
