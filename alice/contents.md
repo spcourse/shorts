@@ -1,4 +1,4 @@
-# Longest Word in File
+# Alice
 
 Write a program called `alice.py` that (similar to the `longest_word` assignment before) defines a function `longest_word_clean(text)` which identifies and returns the longest word from a given string `text`. In this case however, the input text should be read from a text file called `alice.txt` ([download](alice.txt)).
 
