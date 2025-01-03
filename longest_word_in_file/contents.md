@@ -1,6 +1,6 @@
 # Longest Word in File
 
-Write a program called `longest_word_in_file.py` that (just like the `longest_word` assignment before) defines a function `longest_word(text)` which identifies and returns the longest word from a given string `text`. In this case however, the input text should be read from a text file called `alice.txt` ([download](alice.txt)).
+Write a program called `alice.py` that (similar to the `longest_word` assignment before) defines a function `longest_word_clean(text)` which identifies and returns the longest word from a given string `text`. In this case however, the input text should be read from a text file called `alice.txt` ([download](alice.txt)).
 
 ### Notes
 
@@ -13,11 +13,11 @@ Write a program called `longest_word_in_file.py` that (just like the `longest_wo
     # define longest_word function.
     # your code here...
 
-    # Open and read file store contents in txt variable
+    # open, read and close a file; store contents in txt variable
     # your code here...
 
     # Find and print the longest word
-    longest_word = longest_word(txt)
+    longest_word = longest_word_clean(txt)
     print(longest_word)
 
 ### Expected Output
@@ -28,10 +28,10 @@ Write a program called `longest_word_in_file.py` that (just like the `longest_wo
 
 Run your program and verify that it indeed displays the expected text:
 
-    python longest_word.py
+    python alice.py
 
 ## Checkpy
 
 You can use checkpy to verify that it meets our requirements:
 
-    checkpy longest_word
+    checkpy alice
