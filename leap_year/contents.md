@@ -1,6 +1,6 @@
 # Leap Year
 
-Write a program called `leap_year.py` that that determines whether a given year is a leap year. A year is a leap year if it is divisible by 4 but not divisible by 100. But, if it's divisible by 400 it is a leap year.
+Write a program called `leap_year.py` that that determines whether a given year is a leap year. A year is a leap year if it is divisible by 4, unless it is also divisible by 100. However, if a year is divisible by 400, it is a leap year (despite being divisible by 100).
 
 The program should prompt the user to input a year and then display whether the year is a leap year or not.
 
