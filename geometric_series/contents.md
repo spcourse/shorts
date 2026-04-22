@@ -1,12 +1,10 @@
 # Geometric Series
 
-Write a program called `geometric_series.py` that computes the following sum:
+Write a program called `geometric_series.py` that asks the number to input a number `n` and computes the following sum:
 
 $$
 \textrm{total} = \Sigma_{i=0}^n \frac{1}{2^i}
 $$
-
-The program should prompt the user for a non-negative integer `n` and print the result.
 
 ### Example Usage
 
