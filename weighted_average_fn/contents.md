@@ -12,9 +12,9 @@ When all weights are equal, this is the same as the regular average.
 
 Create a file called `weighted_average.py` and define a function `weighted_average(values, weights)` that takes two lists of equal length and returns the weighted average.
 
-> Tip: since the formula uses both lists at the same index $i$, you cannot use the standard python loop `for a in values`. You will need to explicitely loop using the indices:
+> Tip: since the formula uses both lists at the same index $$i$$, you cannot use the standard python loop `for a in values`. You will need to explicitely loop over the indices:
 >
->        for range(len(values)):
+>        for i in range(len(values)):
 >            a = values[i]
 >            w = weights[i]
 >            ...
