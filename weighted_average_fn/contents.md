@@ -1,6 +1,6 @@
 # Weighted Average
 
-A weighted average is like a regular average, except that some values count more than others. Each value $a_i$ is multiplied by a corresponding weight $w_i$ before summing. The result is then divided by the total weight:
+A weighted average is like a regular average, except that some values count more than others. Each value $$a_i$$ is multiplied by a corresponding weight $$w_i$$ before summing. The result is then divided by the total weight:
 
 $$
 \textrm{weighted\_average} = \frac{\Sigma_{i=0}^{n-1} w_i \cdot a_i}{\Sigma_{i=0}^{n-1} w_i}
