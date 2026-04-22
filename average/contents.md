@@ -2,11 +2,20 @@
 
 Write a program called `average.py` that calculates the average of a sequence of positive numbers entered by the user.
 
+The average of a list $$a$$ of $$n$$ numbers is defined as:
+
+$$
+\textrm{average} = \frac{1}{n} \Sigma_{i=0}^{n-1} a_i
+$$
+
 ## Requirements:
 
 1. Prompt the user to enter positive numbers one by one. Continue accepting inputs until the user enters a non-positive number (zero or negative).
 2. Store all the entered positive numbers in a list.
-3. Calculate the average of the numbers in the list.
+3. Calculate the average of the numbers in the list using a `for` loop, following the recipe for translating $$\Sigma$$ into `for` as we discussed before. Do not use Python's built-in `sum()` function.
+4. Print the list and its average.
+
+
 
 ### Example Usage 1:
 
