@@ -6,7 +6,7 @@ Create a file called `average_variance_fn.py`. Start by copying the computing pa
 
 Note that: for this assignment you're not going to ask the user for input. To test your functions you can just use some hard-coded test inputs.
 
-## Part 1: `average`
+## Part 1: average
 
 Define a function `average(lst)` that takes a list of numbers and returns the mean.
 
@@ -22,7 +22,7 @@ Define a function `average(lst)` that takes a list of numbers and returns the me
     25.0
     7.0
 
-## Part 2: `variance`
+## Part 2: variance
 
 Define a function `variance(lst)` that takes a list of numbers and returns the variance (using the `for` loop you copied from the previous variance assignment).
 
