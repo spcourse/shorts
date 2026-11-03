@@ -1,6 +1,6 @@
 # Sum Until
 
-Write a program called `sum_until.py` that calculates the sum from $$1 + 2 + ...$ until this sum surpasses a given `n` provided by the user.
+Write a program called `sum_until.py` that calculates the sum from $$1 + 2 + ...$$ until this sum surpasses a given `n` provided by the user.
 
 ## Requirements:
 
